@@ -1,6 +1,4 @@
-﻿$Global:wfRunningInstance = [System.Collections.ArrayList]@()
-$Global:wfArray  = [System.Collections.ArrayList]@()
-$Global:wfItemInstances = [System.Collections.ArrayList]@()  
+
   
    function GetListitemWorkflowInstance($listName){
    
